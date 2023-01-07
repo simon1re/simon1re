@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm  Simon Re1💻</h1>
+<h1 align="center">Hi 👋, I'm  Simon</h1>
 <h3 align="center">A aspiring Software developer from Sweden</h3>
 <p> Hi, my name is Simon and I am a aspiring software developer and computer science student. I am passionate about using technology to solve problems and improve people's lives. In my free time, I enjoy learning about new programming languages and technologies, and working on personal projects. I am excited to continue learning and growing as a developer as I pursue my studies and career.</p>
 
