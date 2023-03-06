@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a startup
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **FERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
