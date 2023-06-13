@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm  Simon</h1>
-<h3 align="center">A aspiring Software developer from Sweden</h3>
-<p> Hi, my name is Simon and I am a aspiring software developer and computer science student. I am passionate about using technology to solve problems and improve people's lives. In my free time, I enjoy learning about new programming languages and technologies, and working on personal projects. I am excited to continue learning and growing as a developer as I pursue my studies and career.</p>
+<h3 align="center">A Software developer from Sweden</h3>
+<p> Hi, my name is Simon and Im a software developer specialized in frontend development.  I am passionate about using technology to solve problems and improve people's lives. In my free time, I enjoy learning about new programming languages and technologies, and working on personal projects. I am excited to continue learning and growing as a developer as I pursue my studies and career.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simon1re&label=Profile%20views&color=0e75b6&style=flat" alt="simon1re" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a startup
 
-- 🌱 I’m currently learning **FERN**
+- 🌱 I’m currently learning Next.js
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
